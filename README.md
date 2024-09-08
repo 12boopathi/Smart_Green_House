@@ -80,3 +80,8 @@ KY-013 analog temperature sensor, suitable for greenhouse environments.
    ●Certifications: Ensure components and system meet required certifications for safety and reliability.
    ●9. Documentation:
    These specifications outline the key hardware and system requirements for the SMART GREEN HOUSE project, ensuring that all components work together effectively to achieve the desired automation and control capabilities.
+
+9. virtual Modbus master software:
+    .Simply modbus Master: https://www.simplymodbus.ca/RTUmaster.htm
+    .Modpoll Modbus Master : https://www.modbustools.com/download.html
+   
