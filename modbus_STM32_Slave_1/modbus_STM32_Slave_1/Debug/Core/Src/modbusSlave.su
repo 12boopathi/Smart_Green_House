@@ -1,0 +1,7 @@
+../Core/Src/modbusSlave.c:13:6:turnRelayOn	8	static
+../Core/Src/modbusSlave.c:19:6:turnRelayOff	8	static
+../Core/Src/modbusSlave.c:24:6:sendData	24	static
+../Core/Src/modbusSlave.c:34:6:modbusException	16	static
+../Core/Src/modbusSlave.c:46:9:readHoldingRegs	24	static
+../Core/Src/modbusSlave.c:86:9:writeHoldingRegs	24	static
+../Core/Src/modbusSlave.c:130:9:writeSingleReg	16	static

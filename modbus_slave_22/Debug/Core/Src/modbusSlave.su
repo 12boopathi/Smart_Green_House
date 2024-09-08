@@ -1,0 +1,7 @@
+../Core/Src/modbusSlave.c:31:6:HAL_ADC_ConvCpltCallback	104	static
+../Core/Src/modbusSlave.c:56:7:readTemperature	4	static
+../Core/Src/modbusSlave.c:67:6:sendData	24	static
+../Core/Src/modbusSlave.c:75:6:modbusException	16	static
+../Core/Src/modbusSlave.c:83:9:readHoldingRegs	32	static
+../Core/Src/modbusSlave.c:124:9:writeHoldingRegs	24	static
+../Core/Src/modbusSlave.c:158:9:writeSingleReg	16	static
